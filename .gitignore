@@ -1,0 +1,20 @@
+﻿# Secrets
+api
+.env
+
+# Not part of the project
+codeshape.py
+
+# Generated index
+index/
+
+# Student questions (private)
+logs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+.vscode/
